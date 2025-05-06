@@ -6,11 +6,11 @@ body {
     line-height: 1.6;
     background: #fafafa;
     color: #333;
-  }
-  h1, h2 {
+}
+h1, h2 {
     border-bottom: 1px solid #ddd;
     padding-bottom: 0.3em;
-  }
-  .lang-section {
+}
+.lang-section {
     margin-top: 3rem;
-  }
+}
